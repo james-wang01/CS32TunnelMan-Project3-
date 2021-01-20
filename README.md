@@ -1,3 +1,1 @@
-# CS32TunnelMan-Project3-
-CS32 Summer 2019 Project 3
-Score: 140/140
+# TunnelMan Game (Made in C++)
